@@ -19,3 +19,7 @@ body {
   height: 100%;
   object-fit: cover;
 }
+
+.banner > a{
+margin-bottom: 60px; 
+}
